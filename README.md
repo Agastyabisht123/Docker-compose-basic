@@ -1,4 +1,3 @@
-# Docker-compose-basic
 
 # Docker
 
